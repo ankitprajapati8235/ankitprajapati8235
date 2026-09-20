@@ -164,41 +164,41 @@ A travel-focused web application designed to help users explore destinations, di
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ankitprajapati8235&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ankitprajapati8235&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ankitprajapati8235&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+<img src="https://github-profile-trophy.vercel.app/?username=ankitprajapati8235&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitprajapati8235&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitprajapati8235&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-# 💡 Currently Learning
+## 💡 Currently Learning
 
 <div align="center">
 
-`C++` • `DSA` • `Data Science` • `Machine Learning` • `Generative AI` • `Web Development`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F80ED&center=true&vCenter=true&width=800&lines=C%2B%2B+%26+DSA;Data+Science;Machine+Learning;Generative+AI;Web+Development;Building+Real-World+Projects" alt="Currently Learning" />
 
 </div>
 
