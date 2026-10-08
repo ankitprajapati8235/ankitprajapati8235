@@ -176,21 +176,17 @@ A travel-focused web application designed to help users explore destinations, di
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ankitprajapati8235&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitprajapati8235&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitprajapati8235&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitprajapati8235&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
 
 ---
 
